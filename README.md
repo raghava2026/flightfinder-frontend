@@ -32,8 +32,4 @@ FlightFinder is a personal air travel assistant. You can easily search for avail
 ### 🔍 User Dashboard — Search Flights
 ![User Dashboard](./screenshots/user-dashboard.png)
 
----
 
-## 🚀 How to Run Locally
-
-1. Clone the repo  
